@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tarun_sai_srinivas.Weather"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c82655c-1070-4b17-9154-f0f8bbfabd8f"
+      }
     }
   }
 }
